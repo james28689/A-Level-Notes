@@ -15,10 +15,12 @@ body {
   color:#3c4560;
   width: 90vw;
   margin-left: 5vw;
+  margin-top: 50px;
 }
 
 #content {
-  width: 90%;
+  width: 90vw;
+  margin-left: 5vw;
   display: flexbox;
   justify-content: center;
   margin: auto;
@@ -48,10 +50,4 @@ img {
 #footer-text {
   position: absolute;
   bottom: 20px;
-}
-
-@media (max-width: 1080px) {
-  body {
-    width: 90%;
-  }
 }
