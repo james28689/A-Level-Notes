@@ -13,8 +13,8 @@ body {
 
 #header h1 {
   color:#3c4560;
-  width: 90%;
-  margin: auto;
+  width: 90vw;
+  margin-left: 5vw;
 }
 
 #content {
