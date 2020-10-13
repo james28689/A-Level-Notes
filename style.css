@@ -17,7 +17,7 @@ body {
 }
 
 #content {
-  width: 70%;
+  width: 90%;
   display: flexbox;
   justify-content: center;
   margin: auto;
