@@ -28,6 +28,13 @@ body {
   align-items: center;
 }
 
+.card {
+	background: white;
+	border-radius: 15px;
+	margin: 20px;
+	box-shadow: 0 5px 15px rgba(0, 0, 0, 0.15);
+}
+
 a {
   color: #4775f2;
   text-decoration: none;
